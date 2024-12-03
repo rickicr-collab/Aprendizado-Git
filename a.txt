@@ -1,3 +1,4 @@
 teste no arquivo a.txt
 entendendo o HEAD
 esta linha foi modificada no ramo Master
+esta linha foi modificada no ramo teste
