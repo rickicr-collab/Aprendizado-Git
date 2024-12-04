@@ -23,14 +23,6 @@ O GitHub é uma plataforma de hospedagem de código-fonte que utiliza o Git. Ele
 
 - **Segurança e backup**: Ao armazenar seu código no GitHub, você garante que ele está seguro e disponível de qualquer lugar, além de criar backups automáticos das versões do seu projeto.
 
-## Comandos Básicos de Git
-
-Aqui estão alguns dos comandos mais comuns que você deve saber para começar a usar o Git:
-
-### Inicializando um Repositório
-1. **Criar um repositório Git local:**
-   ```bash
-   git init
 # Repositório de Exemplos de Git e GitHub
 
 Este repositório contém exemplos e orientações sobre como usar o Git e o GitHub, ferramentas essenciais para desenvolvedores na área de tecnologia. Aqui, você aprenderá os comandos básicos do Git e como usar o GitHub para gerenciar seu código de forma eficiente.
